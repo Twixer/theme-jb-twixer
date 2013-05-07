@@ -14,7 +14,7 @@ How to use it?
 =================
 There are 2 places you should go look.  
   
-- [Jekyll] (https://github.com/mojombo/jekyll) / Jekyll repo page on Github
-- [Jekyll-Bootstrap](http://jekyllbootstrap.com/) / (Almost) complete how-to and bootstrap for Jekyll created by Jade Dominguez
+*[Jekyll] (https://github.com/mojombo/jekyll) / Jekyll repo page on Github
+*[Jekyll-Bootstrap](http://jekyllbootstrap.com/) / (Almost) complete how-to and bootstrap for Jekyll created by Jade Dominguez
 
 After installing Jekyll-bootstrap, follow instructions in this page : [jekyll-theming.html] (http://jekyllbootstrap.com/usage/jekyll-theming.html)
