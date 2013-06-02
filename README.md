@@ -25,5 +25,6 @@ Changelog
 ##2013-06-03
 - change the theme inspisration, now the theme is based on [twitter](https://github.com/jekyllbootstrap/theme-twitter.git)
 - add table of content feature based on [Tocify](http://gregfranko.com/jquery.tocify.js/)  
-##2013-05-07 : 
+
+##2013-05-07
 - creation of the theme based on [the-program] (https://github.com/jekyllbootstrap/theme-the-program.git).
